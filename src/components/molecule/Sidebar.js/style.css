@@ -1,0 +1,11 @@
+.sidebar {
+    background: rgb(18, 136, 204);
+    width: 260px;
+    position: absolute;
+    text-align: center;
+    left: 50;
+}
+
+.active {
+    background: #03a9f4;
+}
